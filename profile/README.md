@@ -5,7 +5,7 @@
 ---
 
 ### Focus
-- **[Droidian-on-Spes (in progess of moving to this organization)](https://example.com):** Mainline Linux porting for the Xiaomi Redmi Note 11.
+- **[Droidian-on-Spes (in progess of moving to this organization)](https://example.com):** Linux porting for the Xiaomi Redmi Note 11, using Halium and Libhybris
 
 ### Our Standards
 - **Merit-based:** We respect those who ship code.
