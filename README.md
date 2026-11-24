@@ -3,7 +3,7 @@
 Welcome to the open-source developer ecosystem and Linux community for the Greater Cairo capital region. We bridge the gap from WSL (Windows Subsystem for Linux) to Gentoo through project-driven labs, infrastructure exploration, and collaborative engineering.
 
 ### Core Repositories
-* 📜 [Code of Conduct](https://github.com/GreaterCairo/.github/blob/main/CODE_OF_CONDUCT.md)** - Our community guidelines
+* 📜 [Code of Conduct](https://github.com/GreaterCairo/.github/blob/main/CODE_OF_CONDUCT.md) - Our community guidelines
 
 
 ---
